@@ -1,0 +1,17 @@
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\bin\Debug\net6.0\EXAMEN.Repositories.deps.json
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\bin\Debug\net6.0\EXAMEN.Repositories.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\bin\Debug\net6.0\EXAMEN.Repositories.pdb
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\bin\Debug\net6.0\EXAMEN.Contracts.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\bin\Debug\net6.0\EXAMEN.Entities.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\bin\Debug\net6.0\EXAMEN.Contracts.pdb
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\bin\Debug\net6.0\EXAMEN.Entities.pdb
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\obj\Debug\net6.0\EXAMEN.Repositories.csproj.AssemblyReference.cache
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\obj\Debug\net6.0\EXAMEN.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\obj\Debug\net6.0\EXAMEN.Repositories.AssemblyInfoInputs.cache
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\obj\Debug\net6.0\EXAMEN.Repositories.AssemblyInfo.cs
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\obj\Debug\net6.0\EXAMEN.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\obj\Debug\net6.0\EXAMEN.Repositories.csproj.CopyComplete
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\obj\Debug\net6.0\EXAMEN.Repositories.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\obj\Debug\net6.0\refint\EXAMEN.Repositories.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\obj\Debug\net6.0\EXAMEN.Repositories.pdb
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Repositories\obj\Debug\net6.0\ref\EXAMEN.Repositories.dll

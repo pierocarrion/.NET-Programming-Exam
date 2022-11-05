@@ -1,0 +1,15 @@
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Contracts\bin\Debug\net6.0\EXAMEN.Contracts.deps.json
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Contracts\bin\Debug\net6.0\EXAMEN.Contracts.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Contracts\bin\Debug\net6.0\EXAMEN.Contracts.pdb
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Contracts\bin\Debug\net6.0\EXAMEN.Entities.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Contracts\bin\Debug\net6.0\EXAMEN.Entities.pdb
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Contracts\obj\Debug\net6.0\EXAMEN.Contracts.csproj.AssemblyReference.cache
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Contracts\obj\Debug\net6.0\EXAMEN.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Contracts\obj\Debug\net6.0\EXAMEN.Contracts.AssemblyInfoInputs.cache
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Contracts\obj\Debug\net6.0\EXAMEN.Contracts.AssemblyInfo.cs
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Contracts\obj\Debug\net6.0\EXAMEN.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Contracts\obj\Debug\net6.0\EXAMEN.Contracts.csproj.CopyComplete
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Contracts\obj\Debug\net6.0\EXAMEN.Contracts.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Contracts\obj\Debug\net6.0\refint\EXAMEN.Contracts.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Contracts\obj\Debug\net6.0\EXAMEN.Contracts.pdb
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Contracts\obj\Debug\net6.0\ref\EXAMEN.Contracts.dll

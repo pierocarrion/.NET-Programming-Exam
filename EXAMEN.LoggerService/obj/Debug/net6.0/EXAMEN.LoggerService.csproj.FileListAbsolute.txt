@@ -1,0 +1,17 @@
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\bin\Debug\net6.0\EXAMEN.LoggerService.deps.json
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\bin\Debug\net6.0\EXAMEN.LoggerService.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\bin\Debug\net6.0\EXAMEN.LoggerService.pdb
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\bin\Debug\net6.0\EXAMEN.Contracts.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\bin\Debug\net6.0\EXAMEN.Entities.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\bin\Debug\net6.0\EXAMEN.Contracts.pdb
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\bin\Debug\net6.0\EXAMEN.Entities.pdb
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\obj\Debug\net6.0\EXAMEN.LoggerService.csproj.AssemblyReference.cache
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\obj\Debug\net6.0\EXAMEN.LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\obj\Debug\net6.0\EXAMEN.LoggerService.AssemblyInfoInputs.cache
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\obj\Debug\net6.0\EXAMEN.LoggerService.AssemblyInfo.cs
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\obj\Debug\net6.0\EXAMEN.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\obj\Debug\net6.0\EXAMEN.LoggerService.csproj.CopyComplete
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\obj\Debug\net6.0\EXAMEN.LoggerService.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\obj\Debug\net6.0\refint\EXAMEN.LoggerService.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\obj\Debug\net6.0\EXAMEN.LoggerService.pdb
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.LoggerService\obj\Debug\net6.0\ref\EXAMEN.LoggerService.dll

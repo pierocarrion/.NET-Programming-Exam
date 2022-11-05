@@ -1,0 +1,84 @@
+﻿@using EXAMEN.Models.ViewModels.Order;
+@model OrderViewModelContainer
+
+<h1>Pedido @Model.OrderView.OrderId  - @Model.OrderView.ContactName</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Código
+            </th>
+            <th>
+                Descripción
+            </th>
+            <th>
+                Cantidad
+            </th>
+            <th>
+                Precio
+            </th>
+            <th>
+                Total (Descuento aplicado)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var orderDetail in Model.OrderView.OrderDetails)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(o => orderDetail.OrderDetailId)
+                </td>
+                <td>
+                    @Html.DisplayFor(o => orderDetail.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(o => orderDetail.Quantity)
+                </td>
+                <td>
+                    @Html.DisplayFor(o => orderDetail.UnitPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(o => orderDetail.Total)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="container">
+    <div class="row">
+        <div class="col order-last">
+            <h6>Total: @ViewBag.TotalSum</h6>
+        </div>
+        <div class="col"></div>
+        <div class="col order-first"></div>
+    </div>
+</div>
+
+<form asp-action="Update" asp-route-id="@Model.OrderView.OrderId">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="row">
+        <div class="form-group col-sm-6">
+            <input class="form-control"  asp-for="OrderViewToUpdate.ConfirmationDate" />
+            <span asp-validation-for="OrderViewToUpdate.ConfirmationDate" class="text-danger"></span>
+        </div>
+        <div class="form-group col-auto">
+            <input type="checkbox" asp-for="OrderViewToUpdate.Confirmed" />
+            <label asp-for="OrderViewToUpdate.Confirmed" class="control-label"></label>
+            <span asp-validation-for="OrderViewToUpdate.Confirmed" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            <label asp-for="OrderViewToUpdate.Comments" class="control-label"></label>
+            <input asp-for="OrderViewToUpdate.Comments" class="form-control" />
+            <span asp-validation-for="OrderViewToUpdate.Comments" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col  text-center" style="padding-top:10px">
+            <input type="submit" value="Guardar" class="btn btn-primary " />
+        </div>
+    </div>
+
+</form>

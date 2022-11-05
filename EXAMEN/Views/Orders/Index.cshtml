@@ -1,0 +1,41 @@
+﻿@using EXAMEN.Models.ViewModels.Order;
+@model IEnumerable<OrderViewModel>
+
+<h1>Lista de Pedidos pendientes de confirmación</h1>
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>
+                Nro Orden
+            </th>
+            <th>
+                Fecha
+            </th>
+            <th>
+                Nombre/Razon Social
+            </th>
+            <th>
+                Teléfono
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var order in Model)
+        {
+            <tr onclick="location.href = '@Url.Action("Details", "Orders", new { orderId = order.OrderId})'">
+                <td>
+                    @Html.DisplayFor(o => order.OrderId)
+                </td>
+                <td>
+                    @Html.DisplayFor(o => order.OrderDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(o => order.ContactName)
+                </td>
+                <td>
+                    @Html.DisplayFor(o => order.Phone)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,12 @@
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Entities\bin\Debug\net6.0\EXAMEN.Entities.deps.json
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Entities\bin\Debug\net6.0\EXAMEN.Entities.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Entities\bin\Debug\net6.0\EXAMEN.Entities.pdb
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Entities\obj\Debug\net6.0\EXAMEN.Entities.csproj.AssemblyReference.cache
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Entities\obj\Debug\net6.0\EXAMEN.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Entities\obj\Debug\net6.0\EXAMEN.Entities.AssemblyInfoInputs.cache
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Entities\obj\Debug\net6.0\EXAMEN.Entities.AssemblyInfo.cs
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Entities\obj\Debug\net6.0\EXAMEN.Entities.csproj.CoreCompileInputs.cache
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Entities\obj\Debug\net6.0\EXAMEN.Entities.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Entities\obj\Debug\net6.0\refint\EXAMEN.Entities.dll
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Entities\obj\Debug\net6.0\EXAMEN.Entities.pdb
+C:\Users\SoldierStark\Documents\GitHub\EXAMEN-CARRION-PINTO-PIERO\EXAMEN.Entities\obj\Debug\net6.0\ref\EXAMEN.Entities.dll

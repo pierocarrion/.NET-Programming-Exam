@@ -1,0 +1,9 @@
+2022-11-04 23:47:09.1201 INFO Function Name: Find : EXAMEN.Entities.Order
+2022-11-04 23:47:25.5069 INFO Function Name: Find : EXAMEN.Entities.Order
+2022-11-04 23:49:43.4173 INFO Function Name: Find : EXAMEN.Entities.Order
+2022-11-04 23:50:05.1904 INFO Function Name: Find : EXAMEN.Entities.Order
+2022-11-04 23:50:36.0280 INFO Function Name: Find : EXAMEN.Entities.Order
+2022-11-04 23:52:13.5730 INFO Function Name: Find : EXAMEN.Entities.Order
+2022-11-04 23:53:13.8545 INFO Function Name: Find : EXAMEN.Entities.Order
+2022-11-04 23:59:03.9966 INFO Function Name: Find : EXAMEN.Entities.Order
+2022-11-04 23:59:07.0929 INFO Function Name: GetById : EXAMEN.Entities.Order - ID : 11075
