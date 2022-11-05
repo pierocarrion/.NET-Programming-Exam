@@ -193,3 +193,14 @@
 2022-11-05 00:31:43.8353 INFO Function Name: Update : EXAMEN.Entities.Order
 2022-11-05 00:31:43.8494 INFO Function Name: Find : EXAMEN.Entities.Order
 2022-11-05 00:32:15.4646 INFO Function Name: Find : EXAMEN.Entities.Order
+2022-11-05 00:40:15.3941 INFO Function Name: Find : EXAMEN.Entities.Order
+2022-11-05 00:40:18.0917 INFO Function Name: Find : EXAMEN.Entities.Order
+2022-11-05 00:40:18.1486 INFO Function Name: Find : EXAMEN.Entities.OrderDetail
+2022-11-05 00:40:22.0308 INFO Function Name: Update : EXAMEN.Entities.Order
+2022-11-05 00:40:22.2047 INFO Function Name: Find : EXAMEN.Entities.Order
+2022-11-05 00:40:23.7292 INFO Function Name: Find : EXAMEN.Entities.Order
+2022-11-05 00:40:23.7292 INFO Function Name: Find : EXAMEN.Entities.OrderDetail
+2022-11-05 00:40:25.0970 INFO Function Name: Update : EXAMEN.Entities.Order
+2022-11-05 00:40:25.1113 INFO Function Name: Find : EXAMEN.Entities.Order
+2022-11-05 00:40:26.2613 INFO Function Name: Find : EXAMEN.Entities.Order
+2022-11-05 00:40:26.2613 INFO Function Name: Find : EXAMEN.Entities.OrderDetail
