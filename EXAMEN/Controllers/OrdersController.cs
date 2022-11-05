@@ -12,10 +12,8 @@ namespace EXAMEN.Controllers
     public class OrdersController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
-        //private readonly DBContext _context;
-        public OrdersController(IUnitOfWork unitOfWork, DBContext context)
+        public OrdersController(IUnitOfWork unitOfWork)
         {
-          //  _context = context;
             _unitOfWork = unitOfWork;
         }
         public async Task<IActionResult> Index()
