@@ -1,4 +1,4 @@
-# EXAMEN-CARRION-PINTO-PIERO 
+# .NET Programming Exam
 
 ### Técnicas
 ```sh
